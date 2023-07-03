@@ -1,5 +1,5 @@
 {
-    "name": "lp/caluclator",
+    "name": "wsk/caluclator",
     "description": "this is for demo purpose",
     "require": {
         "php": "^7.3 || ^8.0"
