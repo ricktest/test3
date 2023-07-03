@@ -1,0 +1,15 @@
+{
+    "name": "lp/caluclator",
+    "description": "this is for demo purpose",
+    "require": {
+        "php": "^7.3 || ^8.0"
+    },
+    "require-dev": {
+        "php": "^7.3 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LP\\Calculator\\":"packages/LP/calculator/src"
+        }
+    }
+}
